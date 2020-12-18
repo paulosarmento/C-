@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1310404694 source:c:\users\casasbahia\desktop\agenda\pessoa.cpp
+	"pessoa.h"
+
+1308682161 c:\users\casasbahia\desktop\agenda\pessoa.h
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1308682703 source:c:\users\casasbahia\desktop\agenda\main.cpp
+	"pessoa.h"
+
+1310404694 source:c:\users\paulo\documents\documentos\escola cep\ney linguagem c++\agenda\pessoa.cpp
+	"pessoa.h"
+
+1308682161 c:\users\paulo\documents\documentos\escola cep\ney linguagem c++\agenda\pessoa.h
+	<conio.h>
+	<stdio.h>
+	<windows.h>
+
+1308682703 source:c:\users\paulo\documents\documentos\escola cep\ney linguagem c++\agenda\main.cpp
+	"pessoa.h"
+

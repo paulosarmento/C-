@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="375" topLine="0" />
+	</File>
+	<File name="pessoa.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="307" topLine="6" />
+	</File>
+	<File name="pessoa.h" open="1" top="0" tabpos="3">
+		<Cursor position="59" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

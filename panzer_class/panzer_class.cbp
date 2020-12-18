@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="panzer_class" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin\Release\panzer_class" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="..\panzer_class" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="..\irrlicht\include" />
+		</Compiler>
+		<Linker>
+			<Add library="..\irrlicht\lib\Win32-gcc\libIrrlicht.dll.a" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="gdi32" />
+			<Add directory="E:\Game Development\irrlicht-1.7.2\lib\Win32-gcc" />
+		</Linker>
+		<Unit filename="main.cpp" />
+		<Unit filename="panzer.cpp" />
+		<Unit filename="panzer.h" />
+		<Unit filename="tools.cpp" />
+		<Unit filename="tools.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

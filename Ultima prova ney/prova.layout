@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="bola.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="1276" topLine="27" />
+	</File>
+	<File name="bola.h" open="1" top="0" tabpos="3">
+		<Cursor position="672" topLine="12" />
+	</File>
+	<File name="fx.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="24" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="1266" topLine="43" />
+	</File>
+	<File name="maquina.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="751" topLine="16" />
+	</File>
+	<File name="maquina.h" open="1" top="0" tabpos="5">
+		<Cursor position="247" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

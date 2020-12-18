@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="main.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="1329" topLine="13" />
+	</File>
+	<File name="panzer.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="272" topLine="28" />
+	</File>
+	<File name="panzer.h" open="0" top="0" tabpos="3">
+		<Cursor position="339" topLine="8" />
+	</File>
+	<File name="tools.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="239" topLine="0" />
+	</File>
+	<File name="tools.h" open="0" top="0" tabpos="5">
+		<Cursor position="121" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
